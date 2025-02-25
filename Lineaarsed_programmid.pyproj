@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>b0b527ac-0889-4f7f-b307-0494cd5e70f9</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Lineaarsed_programmid.py</StartupFile>
+    <StartupFile>Tund1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -22,6 +22,8 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="Lineaarsed_programmid.py" />
+    <Compile Include="Funktsioonid.py" />
+    <Compile Include="Tund1.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
