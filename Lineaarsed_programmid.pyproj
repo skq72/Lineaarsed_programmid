@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>b0b527ac-0889-4f7f-b307-0494cd5e70f9</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Tund1.py</StartupFile>
+    <StartupFile>Lihtsad prgrammid.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,6 +21,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Lihtsad prgrammid.py" />
     <Compile Include="Lineaarsed_programmid.py" />
     <Compile Include="Funktsioonid.py" />
     <Compile Include="Tund1.py" />
