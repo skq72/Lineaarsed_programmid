@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>b0b527ac-0889-4f7f-b307-0494cd5e70f9</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>Lihtsad prgrammid.py</StartupFile>
+    <StartupFile>Vigade otsing -1.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -24,6 +24,7 @@
     <Compile Include="Lihtsad prgrammid.py" />
     <Compile Include="Lineaarsed_programmid.py" />
     <Compile Include="Funktsioonid.py" />
+    <Compile Include="Vigade otsing -1.py" />
     <Compile Include="Tund1.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />

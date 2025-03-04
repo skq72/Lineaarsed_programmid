@@ -65,6 +65,11 @@ try:
 except:
     print("Sisesta ainult arvud!!!")
 
+    #Ülesanne 9
+    kiirus_kmh=29.9
+    minutid=float(input("Siseta aeg rulluisutamisel:"))
+    vahemaa_km=round({kiirus_kmh}/60*{minutid})
+    print(f"rulluisutaja läbib {minutid} minutiga {vahemaa_kmh")
 
 
 #Ülesanne 10
